@@ -14,6 +14,14 @@ Below is the certifications that i was provided upon finishing these simulations
 
 Please note these are listed in the order to which they were provided
 
+<div>
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AKkAyEwWc8wjPxx9n/Hf4QMESoFeQwXPsiH_AKkAyEwWc8wjPxx9n_mvw8oKQbrDajKM8Sh_1751703320907_completion_certificate.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Certificate" />
+  <img src="https://img.shields.io/badge/-ANZ-0066CC?&style=for-the-badge" alt="ANZ Project Certificate" />
 </a>
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_mvw8oKQbrDajKM8Sh_1751729226874_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-TATA-003366?&style=for-the-badge" alt="TATA Project Certificate" />
+</a>
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_mvw8oKQbrDajKM8Sh_1751918583932_completion_certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-DATA.COM-4285F4?&style=for-the-badge" alt="DATA.COM Project Certificate" />
+</a>
+</div>
