@@ -2,7 +2,7 @@
 This section will be an overview of the Job Simulations that i did on the forage website (https://www.theforage.com). This Experience provided me with a lot of knowledge and gave me the feel of the possible responsibilities that i will have as a SOC analyst. These range from going phising emails to SIEM implementations. The work that will be provided below are my own ideas and steps that i took to solve the set of simulations that i have been provided.
 
 # The Job Simulations
-| Tasks                                         | Associated Company         | Associated Project |
+| Tasks                                         | Associated Company         | Associated Simulation |
 |-----------------------------------------------|----------------------------|--------------------|
 | Phising Emails & Analysing Packets            | ANZ                        |                    |
 | IAM Concepts                                  | TATA                       |                    |
