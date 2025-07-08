@@ -2,12 +2,12 @@
 This section will be an overview of the Job Simulations that i did on the forage website (https://www.theforage.com). This Experience provided me with a lot of knowledge and gave me the feel of the possible responsibilities that i will have as a SOC analyst. These range from going phising emails to SIEM implementations. The work that will be provided below are my own ideas and steps that i took to solve the set of simulations that i have been provided.
 
 # The Job Simulations
-| Tasks                                         | Associated Company         | Associated Simulation |
-|-----------------------------------------------|----------------------------|--------------------|
-| Phising Emails & Analysing Packets            | ANZ                        |                    |
-| IAM Concepts                                  | TATA                       |                    |
-| Risk Assessment                               | DATACOM                    |                    |
-| SIEM Implementation, Incidence response & Pentesting | COMMONWEALTH BANK   |                    |
+| Tasks                                         | Associated Simulation      | 
+|-----------------------------------------------|----------------------------|
+| Phising Emails & Analysing Packets            | <a href= "https://github.com/TIN0-m/ANZ-Forage-Simulation/blob/main/README.md"> ANZ <a/> |  
+| IAM Concepts                                  | TATA                       |
+| Risk Assessment                               | DATACOM                    |
+| SIEM Implementation, Incidence response & Pentesting | COMMONWEALTH BANK   |
 
 I'd like to express my deepest thanks to the Forage team for providing me with the experience and allowing me to sharpen my skills will teaching me new skills and methods to improve my capabilities as a SOC Analyst.
 Below is the certifications that i was provided upon finishing these simulations :
