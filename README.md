@@ -6,7 +6,7 @@ This section will be an overview of the Job Simulations that i did on the forage
 |-----------------------------------------------|----------------------------|
 | Phising Emails & Analysing Packets            | <a href= "https://github.com/TIN0-m/ANZ-Forage-Simulation/blob/main/README.md"> ANZ <a/> |  
 | IAM Concepts                                  | <a href= "https://github.com/TIN0-m/TATA-Forage-Simulation/tree/main"> TATA <a/>         |
-| Risk Assessment                               | DATACOM                    |
+| Risk Assessment                               | <a href= "https://github.com/TIN0-m/DATA.COM-Forage-simulation"> DATA.COM <a/>           |
 | SIEM Implementation, Incidence response & Pentesting | COMMONWEALTH BANK   |
 
 I'd like to express my deepest thanks to the Forage team for providing me with the experience and allowing me to sharpen my skills will teaching me new skills and methods to improve my capabilities as a SOC Analyst.
