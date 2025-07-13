@@ -1,5 +1,5 @@
 # My Forage experience
-This section will be an overview of the Job Simulations that i did on the forage website (https://www.theforage.com). This Experience provided me with a lot of knowledge and gave me the feel of the possible responsibilities that i will have as a SOC analyst. These range from going phising emails to Risk Assessment implementations. The work that will be provided below are my own ideas and steps that i took to solve the set of simulations that i have been provided.
+Participated in comprehensive job simulations via The Forage platform (theforage.com), meticulously designed to mirror the demands of a Security Operations Center Analyst. This hands-on experience significantly deepened my understanding of a SOC Analyst's critical functions, from conducting in-depth analysis of phishing attempts to contributing to robust risk assessment strategies. It provided a tangible feel for the responsibilities essential in a dynamic cybersecurity environment.
 
 # The Job Simulations
 | Tasks                                         | Associated Simulation      | 
